@@ -1,0 +1,12 @@
+
+ul {
+  border: 2px solid red;
+  list-style: none;
+  display: inline;
+  margin-left: 400px;
+}
+
+li {
+  border: 2px solid orange;
+  display: inline;
+}
